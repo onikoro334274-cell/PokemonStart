@@ -17,5 +17,6 @@
 - キタカミ（地図）: SoulGold（eemeliri。土台 pokeemerald-expansion（RHH）・Heart & Soul・smithk200 ほか SoulGold の README のクレジット）
 - 2 つ目の特性の考え: SoulGold（eemeliri・bassforte123）
 - ゲンガー・メガゲンガーの絵: SoulGold（eemeliri ほか SoulGold の README のクレジット）
+- 64MB の ROM に対応させた mGBA: mGBA（Jeffrey Pfau ほか）／ mGBA celio edition（Exormeter）。変更したソース: https://github.com/onikoro334274-cell/mGBA_celio_edition/tree/rom64
 - pokeemerald-expansion（rh-hideout）ほか。詳しくは各プロジェクトのクレジットを参照
 - 営利目的での利用はできません（CFRU の条件）
