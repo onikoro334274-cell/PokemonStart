@@ -16,5 +16,6 @@
 - 斜めの階段: Spherical Ice
 - キタカミ（地図）: SoulGold（eemeliri。土台 pokeemerald-expansion（RHH）・Heart & Soul・smithk200 ほか SoulGold の README のクレジット）
 - 2 つ目の特性の考え: SoulGold（eemeliri・bassforte123）
+- ゲンガー・メガゲンガーの絵: SoulGold（eemeliri ほか SoulGold の README のクレジット）
 - pokeemerald-expansion（rh-hideout）ほか。詳しくは各プロジェクトのクレジットを参照
 - 営利目的での利用はできません（CFRU の条件）
