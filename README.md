@@ -18,5 +18,10 @@
 - 2 つ目の特性の考え: SoulGold（eemeliri・bassforte123）
 - ゲンガー・メガゲンガーの絵: SoulGold（eemeliri ほか SoulGold の README のクレジット）
 - 64MB の ROM に対応させた mGBA: mGBA（Jeffrey Pfau ほか）／ mGBA celio edition（Exormeter）。変更したソース: https://github.com/onikoro334274-cell/mGBA_celio_edition/tree/rom64
+- Moémon の絵: Moemon Project（https://discord.gg/Ds7bjJMumn）とその作者のみなさん。作者の一覧は .pks の中の「Moemonクレジット.txt」「Moemonクレジット（絵ごと）.txt」
 - pokeemerald-expansion（rh-hideout）ほか。詳しくは各プロジェクトのクレジットを参照
 - 営利目的での利用はできません（CFRU の条件）
+
+# スペシャルサンクス
+
+- https://x.com/liru__55
